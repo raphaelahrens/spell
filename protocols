@@ -1,8 +1,11 @@
+DNS
 FTP
 HTTP
 IMAP
 MQTT
+OpenWire
 POP3
+SMTP
 STOMP
 WebSocket
 WebSockets
