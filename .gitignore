@@ -2,3 +2,4 @@
 *.sug
 #vim
 *.swp
+.last-spell

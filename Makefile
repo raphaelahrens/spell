@@ -1,5 +1,5 @@
 
-DICT_FILES = $(shell find . -maxdepth 1 -type f -name "[a-z]*" ! -name "*.*")
+DICT_FILES = $(shell find spell -maxdepth 1 -type f -name "[a-z]*" ! -name "*.*")
 SPELL_FILES = $(patsubst %,%.utf-8.spl,$(DICT_FILES))
 
 .PHONY: all clean

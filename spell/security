@@ -3,13 +3,12 @@ ACL
 AES
 ANSSI
 BSI
-clickjacking
 CSRF
 DDoS
 DH
-DoS
 DSA
 DSS
+DoS
 ECC
 ECDH
 ECDHE
@@ -22,13 +21,14 @@ Keycloak
 MAC
 MACs
 MD5
+Malware
 NIST
 NIST SP
 OAuth
+OTP
 OpenID
 OpenID Connect
 OpenSSL
-OTP
 PGP
 PKI
 RC4
@@ -41,3 +41,4 @@ TLS
 VPN
 VPNs
 XACML
+clickjacking

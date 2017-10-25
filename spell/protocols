@@ -7,5 +7,6 @@ OpenWire
 POP3
 SMTP
 STOMP
+VoIP
 WebSocket
 WebSockets
