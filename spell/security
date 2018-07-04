@@ -4,6 +4,7 @@ AES
 ANSSI
 BSI
 CSRF
+CVE
 DDoS
 DH
 DSA
@@ -16,6 +17,10 @@ ECDSA
 GCM
 HMAC
 HTTPS
+IKEv2
+IPsec
+JWE
+JWS
 KDF
 Keycloak
 MAC
@@ -26,6 +31,7 @@ NIST
 NIST SP
 OAuth
 OTP
+OWASP
 OpenID
 OpenID Connect
 OpenSSL
